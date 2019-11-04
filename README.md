@@ -12,6 +12,8 @@ Just prepend `appwrapper` when invoking an application:
 appwrapper ./Atom-1.5.3-x86_64.AppImage
 ```
 
+This is mainly inteded for wrapping applications that are launched by graphical user interfaces.
+
 ## Credits
 
 Inspired by Haiku OS
