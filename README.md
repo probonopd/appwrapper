@@ -6,7 +6,7 @@ Execute a binary on Linux and show a desktop notification in case of errors
 
 ## Usage
 
-Just prepend `appwrapper` when invokning an application:
+Just prepend `appwrapper` when invoking an application:
 
 ```
 appwrapper ./Atom-1.5.3-x86_64.AppImage
