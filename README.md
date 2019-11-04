@@ -1,9 +1,8 @@
 # appwrapper
 
-Execute a command and show a desktop notification in case of errors
+Execute a binary on Linux and show a desktop notification in case of errors
 
 ![](https://user-images.githubusercontent.com/2480569/68097212-9985f080-fead-11e9-9c9c-534b5de06aa7.png)
-
 
 ## Usage
 
